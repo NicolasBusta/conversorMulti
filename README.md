@@ -6,10 +6,7 @@ se realizo con lenguaje java y java swing para la parte grafica.
 
 # Versiones:
 * Vs0.0.1 - Primera versión del programa.
-#Funcionamiento:
-
-
-
+# Funcionamiento:
 
 https://github.com/NicolasBusta/conversorMulti/assets/97243095/e16431ee-f9ac-44e8-928b-a4a3673d9046
 
