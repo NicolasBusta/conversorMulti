@@ -4,6 +4,8 @@
 Este programa cuenta con un menu y las opciones para convertir, como: conversion de moneda(USD, EUR, GBP, ARS, JPY, KRW), conversion de temperatura(Celsius(C), Fahrenheit(F), Kelvin(K), Reaumur(R), Rankine) y de masa(Gramo(g) y "Kilogramo(Kg)).
 se realizo con lenguaje java y java swing para la parte grafica.
 
+# Versiones:
+* Vs0.0.1 - Primera versión del programa.
 #Funcionamiento:
 
 
